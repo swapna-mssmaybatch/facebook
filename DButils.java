@@ -6,4 +6,5 @@ HEAD
 This is the new line in master branch
 this line updated in development branch
 development
+Hello guys this new line for stash command
 
